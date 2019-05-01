@@ -644,7 +644,7 @@ WARNING: Servos can draw a considerable amount of current. Make sure your system
 #define LANGUAGE_CZ_ACTIVE 1
 #define LANGUAGE_PL_ACTIVE 1
 #define LANGUAGE_TR_ACTIVE 1
-#define UI_PRINTER_NAME "Future"
+#define UI_PRINTER_NAME "Futurebot"
 #define UI_PRINTER_COMPANY "FutureTECH"
 #define UI_PAGES_DURATION 4000
 #define UI_SPEEDDEPENDENT_POSITIONING 0
